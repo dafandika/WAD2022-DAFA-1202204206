@@ -34,7 +34,7 @@
               <div class = "container style="text-align: center; padding-top: 0.2cm;">
               <br>
               <div class="class text-left mb-5 text-light">
-              <p   style="text-align: right; color:black">
+              <p   style="text-align: center; color:black">
               <b>Rent your car now!</b> 
               </p>
               </div>
@@ -129,9 +129,9 @@
                           </div>
                           
   
-                          <form action="MyBooking.php" method="POST">
+                          <form action="Dafa_MyBooking.php" method="GET">
                             <button type="submit" class="btn btn-primary" style="padding-left: 3%; padding-right: 3%; width: 100%">
-                            <a class="nav-link active text-light" href="MyBooking.php">
+                            <a class="nav-link active text-light" href="Dafa_MyBooking.php">
                                   Book
                               </a>
                           </button>

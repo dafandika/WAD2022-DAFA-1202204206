@@ -17,7 +17,7 @@
             </li>
             <li class="nav-item">
                 <h6 style="text-align: center;color:antiquewhite">
-                    <a class="nav-link active text-light" href="Dafa_Booking.php">Booking</a>
+                    <a class="nav-link active text-light" href="Dafa_BookingPage.php">Booking</a>
                 </h6>
             </li>
         </ul>
@@ -63,7 +63,7 @@
                         </div>
                     </div>
                     <div class="card-footer text-center">
-                        <a href="BookingPage.php?type=Hyundai Ioniq" class="btn-primary form-control">
+                        <a href="Dafa_BookingPage.php?type=Hyundai Ioniq" class="btn-primary form-control">
                             <b>Book now</b>
                         </a>
                 </div>
@@ -93,7 +93,7 @@
                         </div>
                     </div>
                     <div class="card-footer text-center">
-                        <a href="BookingPage.php?type=Hyundai Ioniq" class="btn-primary form-control">
+                        <a href="Dafa_BookingPage.php?type=Hyundai Ioniq" class="btn-primary form-control">
                             <b>Book now</b>
                         </a>
                 </div>
@@ -124,7 +124,7 @@
                         </div>
                     </div>
                     <div class="card-footer text-center">
-                        <a href="BookingPage.php?type=Hyundai Ioniq" class="btn form-control">
+                        <a href="Dafa_BookingPage.php?type=Hyundai Ioniq" class="btn btn-primary form-control">
                             <b>Book now</b>
                         </a>
                 </div>
